@@ -7,7 +7,7 @@ function kilometerToMeter(kilometer) {
         return meter;
     }
     else {
-                                        console.log("Warning! Wrong input");
+        console.log("Warning! Wrong input");
     }
 }
 
