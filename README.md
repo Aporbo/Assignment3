@@ -1,1 +1,1 @@
-# basic javascript function
+# basic javascript functions
