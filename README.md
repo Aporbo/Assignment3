@@ -1,1 +1,1 @@
-# Assignment3
+# basic javascript function
